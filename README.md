@@ -13,9 +13,9 @@
 # goorm.io 사용 후기
 
 ## 2025.01.27
-- Ide를 바꿀까 생각 중입니다..
+### Ide를 바꿀까 생각 중입니다..
 - 1. 파일을 분명 삭제했는데? 파일이 있습니다(해보면 압니다)
 - 2. intellisense(자동완성)이 없습니다
-- 3. 코린이는 절대로 못합니다(이게 진짜 단점이라고 봅니다)
-  
+- 3. 코드를 전부 일일이 검사하거나, 빌드하고 실행해서 봐야만.. 합니다
+
  the type java.lang.object cannot be resolved. it is indirectly referenced from required .class files <- goormIde에서 jre를 인식 못함
