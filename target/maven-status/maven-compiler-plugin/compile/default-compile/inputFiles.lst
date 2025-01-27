@@ -1,1 +1,3 @@
-/workspace/spring_example/src/main/java/controller/HelloController.java
+/workspace/spring_example/src/main/java/controller/BoardController.java
+/workspace/spring_example/src/main/java/service/BoardService.java
+/workspace/spring_example/src/main/java/controller/HomeController.java
